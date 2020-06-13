@@ -3,10 +3,10 @@ Follow the links to the resources. If multiple videos/links are given in same po
 
 
 ## Week 1
-  *[Introduction to Data-Structures]()
+  * [Introduction to Data-Structures]()
 
-  *Assignments:
-    *1.
+  * Assignments:
+    * 1.
 
 
 ## Week 2
