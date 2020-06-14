@@ -3,3 +3,5 @@
 ### 2. [Simple primality test](https://www.youtube.com/watch?v=AaNUzEHiDpI&t=23s) -Video
 
 ### 3. [Seive video](https://www.khanacademy.org/computing/computer-science/cryptography/comp-number-theory/v/sieve-of-eratosthenes-prime-adventure-part-4) - Video(just watch the video opened with this link)
+
+* Do complete them in same order, as listed.
