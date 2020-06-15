@@ -3,9 +3,9 @@ This is the template for participants' checklist. You can create a checklist in 
 
 ## Week 1:
 
-- [] Basic Java for Beginners
-  * Assignments:
-  - [] Assignment - 1
+[ ] Basic Java for Beginners
+
+  * Assignments: (comming soon)
 
  ## Week 2:
 ...
