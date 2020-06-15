@@ -3,7 +3,7 @@ This is the template for participants' checklist. You can create a checklist in 
 
 ## Week 1:
 
-- [x] Introduction to Data-Structures
+- [] Basic Java for Beginners
   * Assignments:
   - [] Assignment - 1
 
