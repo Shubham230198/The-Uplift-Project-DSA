@@ -9,7 +9,7 @@ This is the template for participants' checklist. You can create a checklist in 
 - [ ] Maths and Number System
 
   * Assignments:
-  ``- [ ] Assignment 1
+    - [ ] Assignment 1
     - (Coming soon)
 
  ## Week 2:
