@@ -4,8 +4,13 @@ This is the template for participants' checklist. You can create a checklist in 
 ## Week 1:
 
 - [ ] Basic Java for Beginners
+- [ ] Basics of Data Structures
+- [ ] Basic Searching Techniques
+- [ ] Maths and Number System
 
-  * Assignments: (comming soon)
+  * Assignments:
+  ``- [ ] Assignment 1
+    - (Coming soon)
 
  ## Week 2:
 ...
