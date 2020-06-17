@@ -10,6 +10,8 @@ Follow the links to the resources. If multiple videos/links are given in same po
  
   * [Basic Searching Techniques](https://github.com/Shubham230198/The-Uplift-Project-DSA/blob/master/Week%201/Basic_Searching_Techniques.md)
   
+  * [Maths and Number Theory](https://github.com/Shubham230198/The-Uplift-Project-DSA/blob/master/Week%201/Maths_and_Number_Theory.md)
+  
   * Assignments:
     * [Assignment 1](https://www.hackerrank.com/week1-assignment1) 
     * Coming soon (after report approval)
