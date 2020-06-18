@@ -14,8 +14,8 @@ Follow the links to the resources. If multiple videos/links are given in same po
   
   * Assignments:
     * [Assignment 1](https://www.hackerrank.com/week1-assignment1) 
-    * [Assignment 2](www.hackerrank.com/week1-assignment2)
-    * [Assignment 3](www.hackerrank.com/week1-assignment3)
+    * [Assignment 2](https://www.hackerrank.com/week1-assignment2)
+    * [Assignment 3](https://www.hackerrank.com/week1-assignment3)
 
 
 ## Week 2
