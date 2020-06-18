@@ -4,4 +4,4 @@
   
   * [Static vs Dynamic Data-Structures](https://github.com/Shubham230198/The-Uplift-Project-DSA/blob/master/Week%201/Static_vs_Dynamic_DataStructures.md)
 
-  * [Array Basics](https://drive.google.com/file/d/1viAyBkXQE4BsZUtm6NIZcJcZRn-wU7Zz/view?usp=sharing)   (Beginner Theory)
+  * [Abstract Introduction to Data Types](https://drive.google.com/file/d/1fiqEZMA9hTYfQqCDKiCq2zrrCI_ljtbt/view?usp=sharing)   (Beginner Theory)
