@@ -10,7 +10,8 @@ This is the template for participants' checklist. You can create a checklist in 
 
   * Assignments:
     - [ ] Assignment 1
-    - (Coming soon)
+    - [ ] Assignment 2
+    - [ ] Assignment 3
 
  ## Week 2:
 ...
