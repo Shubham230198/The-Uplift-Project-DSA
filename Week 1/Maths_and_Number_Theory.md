@@ -4,6 +4,7 @@
   
   * [Number Systems (Explaining the Basics)](https://www.youtube.com/watch?v=L2zsmYaI5ww) (Video)
 
-  * [Number Systems (Different Methods of their interconversion)](http://electronics-note.blogspot.com/2010/05/it-was-mentioned-in-our-previous.html) (Blog, 10mins to read)
-
-  * [Number Systems (Coding their interconversion)]()
+  * Number Systems (Coding their interconversion)
+    - [Decimal to any base](https://www.youtube.com/watch?v=lOsmPMihcTM&list=PL-Jc9J83PIiFj7YSPl2ulcpwy-mwj1SSk&index=80) (Video)
+    - [Any base to decimal](https://www.youtube.com/watch?v=F0aTGc2vS5s&list=PL-Jc9J83PIiFj7YSPl2ulcpwy-mwj1SSk&index=82) (Video)
+    - [Any base to Any base](https://www.youtube.com/watch?v=LJ697zHLL0M&list=PL-Jc9J83PIiFj7YSPl2ulcpwy-mwj1SSk&index=84) (Video)
