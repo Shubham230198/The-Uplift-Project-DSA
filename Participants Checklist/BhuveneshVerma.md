@@ -9,8 +9,8 @@ This is the template for participants' checklist. You can create a checklist in 
 - [x] Maths and Number System
 
   * Assignments:
-    - [ ] Assignment 1
-    - [ ] Assignment 2
+    - [x] Assignment 1
+    - [x] Assignment 2
     - [ ] Assignment 3
 
  ## Week 2:
