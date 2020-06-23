@@ -11,7 +11,7 @@ This is the template for participants' checklist. You can create a checklist in 
   * Assignments:
     - [x] Assignment 1
     - [x] Assignment 2
-    - [ ] Assignment 3
+    - [x] Assignment 3
 
  ## Week 2:
 ...
