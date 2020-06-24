@@ -19,22 +19,24 @@ Follow the links to the resources. If multiple videos/links are given in same po
 
 
 ## Week 2 
-This week's topic is recursion, which require a lot of practice. Mentors will be explaning all the content and important topics in sessions. So make sure to attend sessions.
-  * [Basics of Recursion](https://www.youtube.com/watch?v=AqHoXqOgctU)  (Video: Explaining recursion alongside solving problems)
-  * [Recursion GFG](https://www.geeksforgeeks.org/recursion/) (Blog: 10 mins read)
-  * [Interesting calls flow during recursion](https://www.programiz.com/java-programming/recursion) (Blog: 20 mins read) We will be discussing these things very extensively in sessions, for better understanding.
-  * [Introduction to Divide and Conquer (DAC)](https://www.javatpoint.com/divide-and-conquer-introduction) (Blog: 15mins read)
+   The recusion is one of the very interesting topic in DSA, and very-difficult to undersand at it's the application level. So, practice more and more questions on this topic. ATTEND SESSIONS REGULARLY, as mentors will be explaining most of the topics, for better understanding of concepts.
   
-  * [Backtracking in recursion](https://www.youtube.com/watch?v=S3rnLLHl0PM&list=PLKKfKV1b9e8pWy_UIiJlOlX_T4al_UtQJ&index=5) (Video)
+  * [Recursion Concept (along with Basic Problems)](https://github.com/Shubham230198/The-Uplift-Project-DSA/blob/master/Week%202/Recursion_Basics.md)
+  
   * [System-Stack Memory and Recursive Calls](https://www.youtube.com/watch?v=dxyYP3BSdcQ) (Video: Explaining with an example)
-  * [Introduction to Infix, Prefix and Postfix Notations](https://www.youtube.com/watch?v=jos1Flt21is) (Video)
-    The Infix, Prefix and Postfix notations are ways of writing arithmetic and logical expressions.
-  * [Infix to Prefix and Postfix](https://www.youtube.com/watch?v=Nfui0rgbQe8) (Video: Explaining the conversion theory)
-  * [Infix to Prefix and Postfix](https://www.youtube.com/watch?v=f29emeUcw6c) (Video: Actual Coding)
-
-
+  
+  * [Concept of Divide-&-Conquer Algo (along with Basic Problems)](https://github.com/Shubham230198/The-Uplift-Project-DSA/blob/master/Week%202/Divide-and-Conquer.md)
+  
+  * [Concept of Backtracking (along with Basic Problems)](https://github.com/Shubham230198/The-Uplift-Project-DSA/blob/master/Week%202/BackTracking.md)
+  
+  * Assignments:
+    *  
+    * 
+    * 
+  
 ## Week 3
-
+  
+  * [Infix, Prefix and Postfix Notations (and their conversions)](https://github.com/Shubham230198/The-Uplift-Project-DSA/blob/master/Week%203/Infix-Prefix-Postfix%20Notations.md)
 
 ## Week 4
 
