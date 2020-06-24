@@ -26,6 +26,11 @@ This week's topic is recursion, which require a lot of practice. Mentors will be
   * [Introduction to Divide and Conquer (DAC)](https://www.javatpoint.com/divide-and-conquer-introduction) (Blog: 15mins read)
   
   * [Backtracking in recursion](https://www.youtube.com/watch?v=S3rnLLHl0PM&list=PLKKfKV1b9e8pWy_UIiJlOlX_T4al_UtQJ&index=5) (Video)
+  * [System-Stack Memory and Recursive Calls](https://www.youtube.com/watch?v=dxyYP3BSdcQ) (Video: Explaining with an example)
+  * [Introduction to Infix, Prefix and Postfix Notations](https://www.youtube.com/watch?v=jos1Flt21is) (Video)
+    The Infix, Prefix and Postfix notations are ways of writing arithmetic and logical expressions.
+  * [Infix to Prefix and Postfix](https://www.youtube.com/watch?v=Nfui0rgbQe8) (Video: Explaining the conversion theory)
+  * [Infix to Prefix and Postfix](https://www.youtube.com/watch?v=f29emeUcw6c) (Video: Actual Coding)
 
 
 ## Week 3
