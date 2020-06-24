@@ -18,7 +18,8 @@ Follow the links to the resources. If multiple videos/links are given in same po
     * [Assignment 3](https://www.hackerrank.com/week1-assignment3)
 
 
-## Week 2
+## Week 2 
+This week's topic is recursion, which require a lot of practice. Mentors will be explaning all the content and important topics in sessions. So make sure to attend sessions.
   * [Basics of Recursion](https://www.youtube.com/watch?v=AqHoXqOgctU)  (Video: Explaining recursion alongside solving problems)
   * [Recursion GFG](https://www.geeksforgeeks.org/recursion/) (Blog: 10 mins read)
   * [Interesting calls flow during recursion](https://www.programiz.com/java-programming/recursion) (Blog: 20 mins read) We will be discussing these things very extensively in sessions, for better understanding.
