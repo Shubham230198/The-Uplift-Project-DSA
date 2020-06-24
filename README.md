@@ -23,7 +23,8 @@ Follow the links to the resources. If multiple videos/links are given in same po
   * [Recursion GFG](https://www.geeksforgeeks.org/recursion/) (Blog: 10 mins read)
   * [Interesting calls flow during recursion](https://www.programiz.com/java-programming/recursion) (Blog: 20 mins read) We will be discussing these things very extensively in sessions, for better understanding.
   * [Introduction to Divide and Conquer (DAC)](https://www.javatpoint.com/divide-and-conquer-introduction) (Blog: 15mins read)
-    - []()
+  
+  * [Backtracking in recursion] (https://www.youtube.com/watch?v=S3rnLLHl0PM&list=PLKKfKV1b9e8pWy_UIiJlOlX_T4al_UtQJ&index=5) (Video)
 
 
 ## Week 3
