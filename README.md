@@ -22,7 +22,8 @@ Follow the links to the resources. If multiple videos/links are given in same po
   * [Basics of Recursion](https://www.youtube.com/watch?v=AqHoXqOgctU)  (Video: Explaining recursion alongside solving problems)
   * [Recursion GFG](https://www.geeksforgeeks.org/recursion/) (Blog: 10 mins read)
   * [Interesting calls flow during recursion](https://www.programiz.com/java-programming/recursion) (Blog: 20 mins read) We will be discussing these things very extensively in sessions, for better understanding.
-  * []()
+  * [Introduction to Divide and Conquer (DAC)](https://www.javatpoint.com/divide-and-conquer-introduction) (Blog: 15mins read)
+    - []()
 
 
 ## Week 3
