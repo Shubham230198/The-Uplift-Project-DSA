@@ -8,7 +8,7 @@ This is the template for participants' checklist. You can create a checklist in 
 - [X] Basic Searching Techniques
 - [X] Maths and Number System
 
-  * Assignments:
+  * Assignments Marks:
     - Assignment-1  = 93/100
     - Assignment-2  = 67/80
     - Assignment-3  = 0/50
