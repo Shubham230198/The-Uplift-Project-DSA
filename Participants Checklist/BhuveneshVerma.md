@@ -9,9 +9,9 @@ This is the template for participants' checklist. You can create a checklist in 
 - [x] Maths and Number System
 
   * Assignments Marks:
-    - Assignment 1 - 100/100
-    - Assignment 2 - 80/80
-    - Assignment 3 - 50/50
+    - Assignment-1 = 100/100
+    - Assignment-2 = 80/80
+    - Assignment-3 = 50/50
     
  ## Week 2:
 ...
