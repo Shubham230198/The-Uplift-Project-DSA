@@ -30,7 +30,7 @@ Follow the links to the resources. If multiple videos/links are given in same po
   * [Concept of Backtracking (along with Basic Problems)](https://github.com/Shubham230198/The-Uplift-Project-DSA/blob/master/Week%202/BackTracking.md)
   
   * Assignments:
-    * (Uploaded Soon)
+    * [Assignment 1](www.hackerrank.com/week2-assignment1)
   
 ## Week 3
   
