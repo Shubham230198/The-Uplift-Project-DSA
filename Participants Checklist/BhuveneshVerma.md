@@ -15,13 +15,13 @@ This is the template for participants' checklist. You can create a checklist in 
 
  ## Week 2:
 
--[x] Recursion Concept (along with Basic Problems)
--[x] System-Stack Memory and Recursive Calls (Video: Explaining with an example)
--[] Concept of Divide-&-Conquer Algo (along with Basic Problems)
--[] Concept of Backtracking (along with Basic Problems)
+- [x] Basic Java for Beginners
+- [ ] Basics of Data Structures
+- [ ] Basic Searching Techniques
+- [ ] Maths and Number System
 
-   * Assignments:
-     - []   Assignment 1
-     - []   Assignment 2
-     - []   Assignment 3
+  * Assignments:
+    - [ ] Assignment 1
+    - [ ] Assignment 2
+    - [ ] Assignment 3
 
