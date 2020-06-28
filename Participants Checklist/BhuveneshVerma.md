@@ -16,7 +16,7 @@ This is the template for participants' checklist. You can create a checklist in 
  ## Week 2:
 
 - [x] Recursion Concept (along with Basic Problems)
-- [ ] System-Stack Memory and Recursive Calls 
+- [x] System-Stack Memory and Recursive Calls 
 - [ ] Concept of Divide-&-Conquer Algo (along with Basic Problems)
 - [ ] Concept of Backtracking (along with Basic Problems)
 
