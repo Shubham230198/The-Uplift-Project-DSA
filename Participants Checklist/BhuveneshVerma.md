@@ -21,7 +21,7 @@ This is the template for participants' checklist. You can create a checklist in 
 - [ ] Concept of Backtracking (along with Basic Problems)
 
   * Assignments:
-    - [ ] Assignment 1
-    - [ ] Assignment 2
+    - [x] Assignment 1
+    - [x] Assignment 2
     - [ ] Assignment 3
 
