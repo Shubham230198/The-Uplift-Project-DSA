@@ -40,6 +40,9 @@ Follow the links to the resources. If multiple videos/links are given in same po
   
   * [Infix, Prefix and Postfix Notations (and their conversions)](https://github.com/Shubham230198/The-Uplift-Project-DSA/blob/master/Week%203/Infix-Prefix-Postfix%20Notations.md)
   * [Object Oriented Programming (OOPs)](https://github.com/Shubham230198/The-Uplift-Project-DSA/blob/master/Week%203/OOPs.md)
+  
+  * Assignments;
+    * [Assignment 1](https://www.hackerrank.com/week3-assignment1)
 
 ## Week 4
 
