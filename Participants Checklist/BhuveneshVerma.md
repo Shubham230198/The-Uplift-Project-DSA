@@ -17,11 +17,11 @@ This is the template for participants' checklist. You can create a checklist in 
 
 - [x] Recursion Concept (along with Basic Problems)
 - [x] System-Stack Memory and Recursive Calls 
-- [ ] Concept of Divide-&-Conquer Algo (along with Basic Problems)
-- [ ] Concept of Backtracking (along with Basic Problems)
+- [x] Concept of Divide-&-Conquer Algo (along with Basic Problems)
+- [x] Concept of Backtracking (along with Basic Problems)
 
   * Assignments:
     - [x] Assignment 1
     - [x] Assignment 2
-    - [ ] Assignment 3
+    - [x] Assignment 3
 
