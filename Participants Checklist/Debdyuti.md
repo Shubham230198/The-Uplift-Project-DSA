@@ -14,5 +14,14 @@ This is the template for participants' checklist. You can create a checklist in 
     - [x] Assignment 3
 
  ## Week 2:
-...
+- [x] Recursion Concept (along with Basic Problems)
+- [x] System-Stack Memory and Recursive Calls 
+- [x] Concept of Divide-&-Conquer Algo (along with Basic Problems)
+- [x] Concept of Backtracking (along with Basic Problems)
+
+  * Assignments:
+    - [x] Assignment 1
+    - [x] Assignment 2
+    - [x] Assignment 3
+
 
