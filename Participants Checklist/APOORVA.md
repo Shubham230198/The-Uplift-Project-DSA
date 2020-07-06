@@ -14,4 +14,4 @@ This is the template for participants' checklist. You can create a checklist in 
     - Assignment-3 = 0/50
     
  ## Week 2:
-...
+   - No participation.
