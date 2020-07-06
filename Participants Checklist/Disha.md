@@ -21,7 +21,9 @@ This is the template for participants' checklist. You can create a checklist in 
 - [x] Concept of Backtracking (along with Basic Problems)
 
   * Assignments:
-    - [ ] Assignment 1
-    - [ ] Assignment 2
-    - [ ] Assignment 3
+    - Assignment-1 = 80/80
+    - Assignment-2 = 0/60
+    - Assignment-3 = 0/30
 
+ ## Week 3:
+  - No Participation
