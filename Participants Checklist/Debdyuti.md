@@ -24,4 +24,11 @@ This is the template for participants' checklist. You can create a checklist in 
     - [x] Assignment 2
     - [x] Assignment 3
 
+## Week 3:
+- [x] Infix, Prefix and Postfix Notations (and their conversions)
 
+- [x] Object Oriented Programming (OOPs)
+
+* Assignment:
+
+   - [x] Assignment 1
