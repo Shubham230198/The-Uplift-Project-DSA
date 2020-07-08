@@ -50,9 +50,7 @@ Follow the links to the resources. If multiple videos/links are given in same po
   
   * [Linked List and it's types](https://github.com/Shubham230198/The-Uplift-Project-DSA/blob/master/Week%204/LinkedList.md)
   
-  * [Queue and it's implementation](https://www.youtube.com/watch?v=ZuIbZEJ9KvU&list=WL&index=59&t=1133s) (Video: start it from 11:30)
-  
-  * [Doubly Ended Queue](https://www.youtube.com/watch?v=V_NVMqxcNaI&list=PLKKfKV1b9e8ps6dD3QA5KFfHdiWj9cB1s&index=45) (Video)
+  * [Queues and content](https://github.com/Shubham230198/The-Uplift-Project-DSA/blob/master/Week%204/Queue.md)
   
   * [Priority Queue](https://www.youtube.com/watch?v=FdObb76AmzM&list=WL&index=59) (Video)
   
