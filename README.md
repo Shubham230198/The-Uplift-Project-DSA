@@ -55,6 +55,7 @@ Follow the links to the resources. If multiple videos/links are given in same po
   * [Priority Queue](https://www.youtube.com/watch?v=FdObb76AmzM&list=WL&index=59) (Video)
   
   * Assignments:
+    - [Assignmnet 1](https://www.hackerrank.com/week4-assignment-1)
     - coming soon.
 
 ## Week 5
