@@ -32,4 +32,16 @@ This is the template for participants' checklist. You can create a checklist in 
   
      * Assignments:
        - [x] Assignment 1
+  
+  ## Week 4:
+
+- [x] Stack and it's content
+- [x] Linked List and it's types
+- [x] Queues and content
+- [x] Priority Queue (Video)
+
+  * Assignments:
+    - [x] Assignment 1
+    - [x] Assignment 2
+    - [x] Assignment 3
 
