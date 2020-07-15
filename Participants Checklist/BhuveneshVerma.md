@@ -41,7 +41,7 @@ This is the template for participants' checklist. You can create a checklist in 
 - [x] Priority Queue (Video)
 
   * Assignments:
-    - [x] Assignment 1
-    - [x] Assignment 2
-    - [x] Assignment 3
+     - [x] Assignment 1
+     - [x] Assignment 3
+     - [x] Assignment 3
 
