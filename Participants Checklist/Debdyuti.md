@@ -32,3 +32,9 @@ This is the template for participants' checklist. You can create a checklist in 
 * Assignment:
 
    - [x] Assignment 1
+   
+ ## Week 4:  
+ 
+    - [x] [Assignmnet 1]
+    - [x] [Assignmnet 2]
+    - [x] [Assignment 3]
