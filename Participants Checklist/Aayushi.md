@@ -1,16 +1,13 @@
 # (Aayushi Bansal) - Checklist
 
-## Week 1:
+## Week 4:
 
-- [ ] Basic Java for Beginners
-- [ ] Basics of Data Structures
-- [ ] Basic Searching Techniques
-- [ ] Maths and Number System
+- [x] Stack and it's content
+- [x] Linked List and it's types
+- [x] Queues and content
+- [x] Priority Queue
 
   * Assignments:
-    - [ ] Assignment 1
-    - [ ] Assignment 2
-    - [ ] Assignment 3
-
- ## Week 2:
-...
+    - [x] Assignment 1 = 60
+    - [x] Assignment 2 = 63.57/65
+    - [x] Assignment 3 = 100
