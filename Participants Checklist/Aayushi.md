@@ -9,5 +9,5 @@
 
   * Assignments:
     - [x] Assignment 1 = 60
-    - [x] Assignment 2 = 63.57/65
+    - [x] Assignment 2 = 65/65
     - [x] Assignment 3 = 100
