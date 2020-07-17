@@ -44,7 +44,7 @@ Follow the links to the resources. If multiple videos/links are given in same po
   * Assignments;
     * [Assignment 1](https://www.hackerrank.com/week3-assignment1)
 
-## Week 4 (OnGoing)
+## Week 4 (Completed)
   
   * [Stack and it's content](https://github.com/Shubham230198/The-Uplift-Project-DSA/blob/master/Week%204/Stack.md)
   
@@ -59,7 +59,9 @@ Follow the links to the resources. If multiple videos/links are given in same po
     - [Assignmnet 2](https://www.hackerrank.com/week4-assignment-2)
     - [Assignment 3](https://www.hackerrank.com/week4-assignment-3)
 
-## Week 5
+## Week 5 (On Going)
+  
+  * [InterviewBit Complexity Assesment](https://www.interviewbit.com/courses/programming/topics/time-complexity/)
 
 
 ## Week 6
