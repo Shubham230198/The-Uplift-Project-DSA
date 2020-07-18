@@ -1,4 +1,4 @@
-# (Aayushi Bansal) - Checklist
+# Aayushi Bansal (New Participant)
 
 ## Week 1:
 
