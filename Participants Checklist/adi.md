@@ -1,9 +1,9 @@
-# Aditya - Checklist
+# Aditya (New Participant)
 [//]: <> (This is the template for participants' checklist. You can create a checklist in this format with yourName, and make PR to keep it updated.)
 
 ## Week 1:
 
-- [ ] <s>Basic Java for Beginners</s>
+- [x] Basic Java for Beginners
 - [ ] Basics of Data Structures
 - [ ] Basic Searching Techniques
 - [ ] Maths and Number System
