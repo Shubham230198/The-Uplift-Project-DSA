@@ -2,10 +2,10 @@
 
 ## Week 1:
 
-- [ ] Basic Java for Beginners
-- [ ] Basics of Data Structures
-- [ ] Basic Searching Techniques
-- [ ] Maths and Number System
+- [x] Basic Java for Beginners
+- [x] Basics of Data Structures
+- [x] Basic Searching Techniques
+- [x] Maths and Number System
 
   * Assignments:
     - [ ] Assignment 1
