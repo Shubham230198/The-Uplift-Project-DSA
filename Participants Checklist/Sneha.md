@@ -3,7 +3,7 @@ This is the template for participants' checklist. You can create a checklist in 
 
 ## Week 1:
 
-- [ ] Basic Java for Beginners
+- [x] Basic Java for Beginners
 - [x] Basics of Data Structures
 - [x] Basic Searching Techniques
 - [x] Maths and Number System
@@ -16,14 +16,14 @@ This is the template for participants' checklist. You can create a checklist in 
  ## Week 2:
 
 
-- [ ] Recursion Concept (along with Basic Problems)
-- [] System-Stack Memory and Recursive Calls (Video: Explaining with an example)
-- [] Concept of Divide-&-Conquer Algo (along with Basic Problems)
-- [] Concept of Backtracking (along with Basic Problems)
+- [x] Recursion Concept (along with Basic Problems)
+- [x] System-Stack Memory and Recursive Calls (Video: Explaining with an example)
+- [x] Concept of Divide-&-Conquer Algo (along with Basic Problems)
+- [x] Concept of Backtracking (along with Basic Problems)
 
 
   * Assignments:
-    - [ ] Assignment 1 
+    - [x] Assignment 1 (68.3/80)
     - [ ] Assignment 2  
     - [ ] Assignment 3  
 
@@ -31,20 +31,20 @@ This is the template for participants' checklist. You can create a checklist in 
  ## Week 3:
 
 
-- [ ] Infix, Prefix and Postfix Notations (and their conversions)
-- [ ]Object Oriented Programming (OOPs)
+- [x] Infix, Prefix and Postfix Notations (and their conversions)
+- [ ] Object Oriented Programming (OOPs)
 
   * Assignments:
-    - [ ] Assignment 1 
+    - [ ] Assignment 1  
    
   
 
- ## Week 2:
+ ## Week 4:
 
-- [ ] Stack and it's content
-- []  Linked List and it's types
-- [] Queues and content
-- []Priority Queue (Video)
+- [x] Stack and it's content
+- [ ] Linked List and it's types
+- [ ] Queues and content
+- [ ] Priority Queue (Video)
 
 
   * Assignments:
