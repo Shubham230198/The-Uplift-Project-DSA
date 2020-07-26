@@ -15,21 +15,17 @@ This is the template for participants' checklist. You can create a checklist in 
 
  ## Week 2:
 
-
 - [x] Recursion Concept (along with Basic Problems)
 - [x] System-Stack Memory and Recursive Calls (Video: Explaining with an example)
 - [x] Concept of Divide-&-Conquer Algo (along with Basic Problems)
 - [x] Concept of Backtracking (along with Basic Problems)
-
 
   * Assignments:
     - [x] Assignment 1 (68.3/80)
     - [ ] Assignment 2  
     - [ ] Assignment 3  
 
-
  ## Week 3:
-
 
 - [x] Infix, Prefix and Postfix Notations (and their conversions)
 - [ ] Object Oriented Programming (OOPs)
@@ -37,22 +33,22 @@ This is the template for participants' checklist. You can create a checklist in 
   * Assignments:
     - [ ] Assignment 1  
    
-  
-
  ## Week 4:
 
 - [x] Stack and it's content
-- [ ] Linked List and it's types
+- [x] Linked List and it's types
 - [ ] Queues and content
 - [ ] Priority Queue (Video)
-
 
   * Assignments:
     - [ ] Assignment 1 
     - [ ] Assignment 2  
     - [ ] Assignment 3  
 
-    
+## Week 5:
+
+- [x] Time Complexity Analysis (Playlist about how to find time-complexity over the codes)
+- [x] InterviewBit Complexity Assessment 
 
    
 
