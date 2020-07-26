@@ -28,7 +28,7 @@ This is the template for participants' checklist. You can create a checklist in 
  ## Week 3:
 
 - [x] Infix, Prefix and Postfix Notations (and their conversions)
-- [ ] Object Oriented Programming (OOPs)
+- [ ] Object Oriented Programming (OOPs) // (unable to load link)
 
   * Assignments:
     - [ ] Assignment 1  
