@@ -4,7 +4,7 @@
 ## Week 1:
 
 - [ ] <s>Basic Java for Beginners</s>
-- [ ] Basics of Data Structures <Status : Pending> => was in remote location with hardly any n/w :( 
+- [ ] Basics of Data Structures <Status : Pending> was in remote location with hardly any n/w :(  
 - [ ] Basic Searching Techniques
 - [ ] Maths and Number System
 
