@@ -68,11 +68,11 @@ Follow the links to the resources. If multiple videos/links are given in same po
   
   
 
-## Week 6 (On going)
-  This week's topics are Searching and Sorting. We will be learning 7 types of sorting and their time-complexity analysis, i.e Bubble sort, Selection sort, Insertion sort, Shell sort, Merge Sort, Quick Sort and Heap Sort.
+## Week 6 (On going)  
+  This week's topics are Searching and Sorting. We will be learning 7 types of sorting and their time-complexity analysis, i.e Bubble sort, Selection sort, Insertion sort, Merge Sort, Quick Sort and Heap Sort. Do join the sessions, as we will be coding all the Sorting algos there along with explanation.
 
 
-  All of these tutorials will explain you psedudo code and some might show actual code(written in cpp), but we have to consider only pseudo code and write our code in java using pseudo code. This will increase your ability to convert a given approach into code.
+  All of these tutorials will explain you pseudo code and some might show actual code(written in cpp), but we have to consider only pseudo code and write our code in java using pseudo code. This will increase your ability to convert a given approach into code.
   
   * [Introduction to Sorting](https://www.youtube.com/watch?v=pkkFqlG0Hds&list=PL2_aWCzGMAwKedT2KfDMB9YA5DgASZb3U&index=2&t=0s) (Video)
   
@@ -89,6 +89,12 @@ Follow the links to the resources. If multiple videos/links are given in same po
   * [Quick Sort](https://www.youtube.com/watch?v=COk73cpQbFQ&list=PL2_aWCzGMAwKedT2KfDMB9YA5DgASZb3U&index=8&t=0s) (Video: Explanation with Pseudo code)
 
   * [Quick Sort complexity analysis](https://www.youtube.com/watch?v=3Bbm3Prd5Fo&list=PL2_aWCzGMAwKedT2KfDMB9YA5DgASZb3U&index=9&t=0s) (Video)
+  
+  * [Heap Sort](https://www.youtube.com/watch?v=HqPJF2L5h9U&t=266s) (Video: Explanation with approach) This will be difficult topic, We will surely be doing this in session.
+  
+  * [Summarisation and Sorting in java](https://stackabuse.com/sorting-algorithms-in-java/) (Blog: 20mins read)
+  
+  * Assignments: This week's assignment will be to code every Sorting algorithm listed above, and submit in Week5's YOUR_NAME folder over gitHub.
   
 ## Week 7
 
