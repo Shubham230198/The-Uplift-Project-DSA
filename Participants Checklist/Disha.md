@@ -27,3 +27,47 @@ This is the template for participants' checklist. You can create a checklist in 
 
  ## Week 3:
   - No Participation
+  
+  
+ ## Week 4:
+
+  - [x] Stack and it's content
+  - [x] Linked List and it's types
+  - [x] Queues and content
+  - [x] Priority Queue
+
+    * Assignments:
+      - [x] Assignment 1 = 24/140
+      - [x] Assignment 2 = 0/65
+      - [x] Assignment 3 = 0/100
+
+
+ ## Week 3:
+ 
+- [x] Infix, Prefix and Postfix Notations (and their conversions)
+- [x] Object Oriented Programming (OOPs)
+
+   * Assignments:
+      - [ ] Assignment 1 
+
+  
+ ## Week 4:
+
+  - [x] Stack and it's content
+  - [x] Linked List and it's types
+  - [x] Queues and content
+  - [x] Priority Queue
+
+    * Assignments:
+      - [ ] Assignment 1 
+      - [ ] Assignment 2 
+      - [ ] Assignment 3 
+
+
+## Week 5 :
+
+  - [x] Time Complexity Analysis
+  - [x] InterviewBit Complexity Assesment
+
+
+

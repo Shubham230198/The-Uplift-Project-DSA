@@ -1,4 +1,4 @@
-# Shweta Bhardwaj - Checklist
+# Shweta Bhardwaj  (New Participant)
 
 ## Week 1:
 (Start Date: 14th July 2020)
@@ -8,8 +8,8 @@
 - [ ] Maths and Number System
 
   * Assignments:
-    - [ ] Assignment 1 (4/10 Done)
-    - [ ] Assignment 2
-    - [ ] Assignment 3
+    - Assignment 1 (40/100)
+    - Assignment 2
+    - Assignment 3
 
    

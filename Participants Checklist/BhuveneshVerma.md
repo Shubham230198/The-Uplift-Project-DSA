@@ -31,3 +31,15 @@ This is the template for participants' checklist. You can create a checklist in 
   * Assignment:
     - Assignment-1 = 40/40
 
+
+## Week 4:
+
+- [x] Stack and it's content
+- [x] Linked List and it's types
+- [x] Queues and content
+- [x] Priority Queue
+
+  * Assignments:
+    - [x] Assignment 1 = 140/140
+    - [x] Assignment 2 = 65/65
+    - [x] Assignment 3 = 100/100

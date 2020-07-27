@@ -1,4 +1,5 @@
-Simran Koul - CheckList (New Participant)
+
+## Simran Koul  (New Participant)
 ## Week 1:
 
 - [x] Basic Java for Beginners
@@ -23,3 +24,5 @@ Simran Koul - CheckList (New Participant)
  ## Week 5: 
    - Pending
  
+
+
