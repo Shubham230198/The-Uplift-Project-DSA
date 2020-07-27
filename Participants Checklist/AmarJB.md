@@ -1,4 +1,4 @@
-# (YourNameHere) - Checklist
+# Amar Bhujang - Checklist(New Participant)
 This is the template for participants' checklist. You can create a checklist in this format with yourName, and make PR to keep it updated.
 
 ## Week 1:
@@ -23,6 +23,4 @@ This is the template for participants' checklist. You can create a checklist in 
    * Assignments:
      - [ ] Assignment 1
      - [ ] Assignment 2
-     - [ ] Assignment 3
-     
- ........So on.
+     - [ ] Assignment 3 
