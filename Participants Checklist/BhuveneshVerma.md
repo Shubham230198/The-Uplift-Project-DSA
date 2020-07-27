@@ -13,7 +13,7 @@ This is the template for participants' checklist. You can create a checklist in 
     - [x] Assignment 2
     - [x] Assignment 3
 
- ## Week 2:
+## Week 2:
 
 - [x] Recursion Concept (along with Basic Problems)
 - [x] System-Stack Memory and Recursive Calls 
@@ -25,15 +25,15 @@ This is the template for participants' checklist. You can create a checklist in 
     - [x] Assignment 2
     - [x] Assignment 3
  
-  ## Week 3:
+## Week 3:
   
-  - [x] Infix, Prefix and Postfix Notations (and their conversions)
-  - [x] Object Oriented Programming (OOPs)
+ - [x] Infix, Prefix and Postfix Notations (and their conversions)
+ - [x] Object Oriented Programming (OOPs)
   
-     * Assignments:
-       - [x] Assignment 1
+   * Assignments:
+     - [x] Assignment 1
   
-  ## Week 4:
+## Week 4:
 
 - [x] Stack and it's content
 - [x] Linked List and it's types
@@ -44,4 +44,9 @@ This is the template for participants' checklist. You can create a checklist in 
      - [x] Assignment 1
      - [x] Assignment 3
      - [x] Assignment 3
+     
+## Week 5:
+
+- [x] Time Complexity Analysis 
+- [x] InterviewBit Complexity Assesment
 
