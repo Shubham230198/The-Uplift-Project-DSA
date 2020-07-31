@@ -1,12 +1,11 @@
-# (YourNameHere) - Checklist
-This is the template for participants' checklist. You can create a checklist in this format with yourName, and make PR to keep it updated.
+# Aditya Tomar - Checklist
 
 ## Week 1:
 
-- [ ] Basic Java for Beginners
-- [ ] Basics of Data Structures
-- [ ] Basic Searching Techniques
-- [ ] Maths and Number System
+- [x] Basic Java for Beginners
+- [x] Basics of Data Structures
+- [x] Basic Searching Techniques
+- [x] Maths and Number System
 
   * Assignments:
     - [ ] Assignment 1
@@ -25,4 +24,4 @@ This is the template for participants' checklist. You can create a checklist in 
      - [ ] Assignment 2
      - [ ] Assignment 3
      
- ........So on.
+
