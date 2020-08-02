@@ -1,5 +1,5 @@
-## Debyuti
-Sorting Alogorithms
+## Debdyuti
+Sorting Algorithms
 
 # Selection Sort:
     void selectionSort(int arr[])
@@ -78,7 +78,7 @@ Sorting Alogorithms
      
      
      
-     # Bubble Sort
+   # Bubble Sort: 
      void bubbleSort(int arr[])
      {
      for (int i = 0; i < ( num - 1 ); i++)
@@ -113,7 +113,7 @@ Sorting Alogorithms
     
      }
      
-     # Merge Sort
+   # Merge Sort:
      
      void mergeSort(int arr[], int beg, int end)  
     {  
@@ -173,7 +173,7 @@ Sorting Alogorithms
      
      
      
-     # QuickSort
+   # QuickSort:
      
      int Partition(int A[], int n, int low, int high)
     {
