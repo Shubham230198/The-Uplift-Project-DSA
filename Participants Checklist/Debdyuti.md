@@ -42,3 +42,10 @@ This is the template for participants' checklist. You can create a checklist in 
     - [x] Assignment 1 = 140/140
     - [x] Assignment 2 = 65/65
     - [x] Assignment 3 = 100/100
+    
+    
+## Week 6:
+*Assignment:
+
+- [x] Assignment
+  
