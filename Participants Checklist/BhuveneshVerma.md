@@ -43,3 +43,26 @@ This is the template for participants' checklist. You can create a checklist in 
     - [x] Assignment 1 = 140/140
     - [x] Assignment 2 = 65/65
     - [x] Assignment 3 = 100/100
+
+
+## Week 5:
+
+- [x] Time Complexity Analysis
+- [x] InterviewBit Complexity Assesment
+
+
+# Week 6:
+
+- [x] Introduction to Sorting
+- [x] Selection Sort 
+- [x] Bubble Sort
+- [x] Insertion Sort
+- [x] Merge Sort
+- [x] Merge Sort complexity analysis
+- [x] Quick Sort
+- [x] Quick Sort complexity analysis
+- [x] Summarisation and Sorting in java
+- [x] Quick Sort complexity analysis
+  
+  * Assignments:
+   - [x] Assignment : This week's assignment will be to code every Sorting algorithm listed above, and submit in Week6's YOUR_NAME folder over gitHub.
