@@ -3,7 +3,7 @@ Sorting Alogorithms
 
 
 ## SELECTION SORT 
-
+```
 #include <iostream>
 #include <vector>
 using namespace std;
@@ -40,9 +40,10 @@ int main() {
   }
   return 0;
 }
+```
 
 ## BUBBLE SORT
-
+```
 #include <iostream>
 #include <vector>
 using namespace std;
@@ -79,9 +80,10 @@ int main() {
   }
   return 0;
 }
+```
 
 ## INSERTION SORT
-
+```
 #include <iostream>
 #include <vector>
 using namespace std;
@@ -117,9 +119,11 @@ int main() {
   }
   return 0;
 }
+```
+
 
 ## MERGE SORT
-
+```
 #include <iostream>
 #include <vector>
 using namespace std;
@@ -195,6 +199,7 @@ vector<int> mergeSort(vector<int> m)
  print(v);
   return 0;
 }
+```
 
 ## QUICK SORT
 ```
