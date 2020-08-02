@@ -197,7 +197,7 @@ vector<int> mergeSort(vector<int> m)
 }
 
 ## QUICK SORT
-
+```
 #include <iostream>
 #include <vector>
 using namespace std;
@@ -252,3 +252,4 @@ int main() {
   }
   return 0;
 }
+```
