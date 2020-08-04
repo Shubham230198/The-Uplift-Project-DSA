@@ -16,6 +16,7 @@ Please complete it in the given order.
   - [Mirror a Generic Tree](https://www.youtube.com/watch?v=PDjTi3WGSNA&list=PL-Jc9J83PIiEmjuIVDrwR9h5i9TT2CEU_&index=20) (Video)
   - [Node to Root Path](https://www.youtube.com/watch?v=oEBwL5pHzTs&list=PL-Jc9J83PIiEmjuIVDrwR9h5i9TT2CEU_&index=30) (Video)
   - [Lowest Common Ancestor](https://www.youtube.com/watch?v=w8rr1AYMlfw&list=PL-Jc9J83PIiEmjuIVDrwR9h5i9TT2CEU_&index=32) (Video)
+  - [Multi Solver](https://www.youtube.com/watch?v=cBQs7kqK_Dw&list=PL-Jc9J83PIiEmjuIVDrwR9h5i9TT2CEU_&index=47) (Video)
   - [Predecessor and Successor (Question)](https://www.youtube.com/watch?v=vfNlLP-oOUg&list=PL-Jc9J83PIiEmjuIVDrwR9h5i9TT2CEU_&index=49) (Video)
   - [Predecessor and Successor (Answer)](https://www.youtube.com/watch?v=lXL9xs0G8Uo&list=PL-Jc9J83PIiEmjuIVDrwR9h5i9TT2CEU_&index=50) (Video)
   - [Diameter of Tree (Question)](https://www.youtube.com/watch?v=_LVi8UWDCh8&list=PL-Jc9J83PIiEmjuIVDrwR9h5i9TT2CEU_&index=65) (Video)
