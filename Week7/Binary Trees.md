@@ -20,4 +20,4 @@ Please complete it in the given order.
   * [Print Single Child Nodes](https://www.youtube.com/watch?v=VMJCFRWvb9Q&list=PL-Jc9J83PIiHYxUk8dSu2_G7MR1PaGXN4&index=41) (Video)
   * [Balanced Binary Tree (Question)](https://www.youtube.com/watch?v=9X1TYiipolA&list=PL-Jc9J83PIiHYxUk8dSu2_G7MR1PaGXN4&index=50) (Video)
   * [Balanced Binary Tree (Solution)](https://www.youtube.com/watch?v=lUDgp2D6sf8&list=PL-Jc9J83PIiHYxUk8dSu2_G7MR1PaGXN4&index=51) (Video)
-  * [Remove Leaves (Solution)](https://www.youtube.com/watch?v=x_0KUwgdm1c&list=PL-Jc9J83PIiHYxUk8dSu2_G7MR1PaGXN4&index=43) (Video)
+  * [Remove Leave Nodes](https://www.youtube.com/watch?v=x_0KUwgdm1c&list=PL-Jc9J83PIiHYxUk8dSu2_G7MR1PaGXN4&index=43) (Video)
