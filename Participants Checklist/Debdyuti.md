@@ -51,7 +51,17 @@ This is the template for participants' checklist. You can create a checklist in 
 
 
 ## Week 6:
-*Assignment:
 
-- [x] Assignment
+- [x] Introduction to Sorting (Video)
+- [x] Selection Sort (Video: Explanation along with pseudo code)
+- [x] Bubble Sort (Video: Explanation along with Pseudo code)
+- [x] Insertion Sort (Video: Explanation along with Pseudo code)
+- [x] Merge Sort (Video: Explanation with Pseudo code)
+- [x] Merge Sort complexity analysis (Video)
+- [x] Quick Sort (Video: Explanation with Pseudo code)
+- [x] Quick Sort complexity analysis (Video)
+- [x] Summarisation and Sorting in java (Blog: 20mins read)
+
+  * Assignments:
+    - [x] Assignment = This week's assignment will be to code every Sorting algorithm listed above, and submit in Week5's YOUR_NAME folder over gitHub.
   
