@@ -20,15 +20,15 @@ This is the template for participants' checklist. You can create a checklist in 
 - [x] Concept of Backtracking (along with Basic Problems)
 
   * Assignments:
-    - Assignment-1 = 
-    - Assignment-2 = 
-    - Assignment-3 = 
+    - Assignment-1 = 40/80
+    - Assignment-2 = 7/60
+    - Assignment-3 = 0/30
 ## Week 3:
 - [x] Infix, Prefix and Postfix Notations (and their conversions)
 - [x] Object Oriented Programming (OOPs)
 
   * Assignment:
-    - Assignment-1 = 
+    - Assignment-1 = 0/40
 
 
 ## Week 4:
@@ -39,6 +39,6 @@ This is the template for participants' checklist. You can create a checklist in 
 - [x] Priority Queue
 
   * Assignments:
-    - [x] Assignment 1 = 
-    - [x] Assignment 2 = 
-    - [x] Assignment 3 = 
+    - [x] Assignment 1 = 0/140
+    - [x] Assignment 2 = 10/65
+    - [x] Assignment 3 = 0/100 
