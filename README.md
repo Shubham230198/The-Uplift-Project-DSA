@@ -100,7 +100,13 @@ Follow the links to the resources. If multiple videos/links are given in same po
 This week's topic is Tree Data-Structure.
 
   * [Generic Trees](https://github.com/Shubham230198/The-Uplift-Project-DSA/blob/master/Week7/Generic%20Trees.md)
+  * [Binary Trees](https://github.com/Shubham230198/The-Uplift-Project-DSA/blob/master/Week7/Binary%20Trees.md)
+  * [Binary Search Trees](https://github.com/Shubham230198/The-Uplift-Project-DSA/blob/master/Week7/Binary%20Search%20Trees.md)
   
+  ##### Special Content wrt project:-
+  - [B Trees Vs B+ Trees (How they are useful in our project)](https://www.youtube.com/watch?v=aZjYr87r1b8) (Video)
+  - [AVL Trees (Introduction)](https://www.youtube.com/watch?v=jDM6_TnYIqE&list=PLDN4rrl48XKpZkf03iYFl-O29szjTrs_O&index=77&t=0s) (video)
+   
   
   
   
