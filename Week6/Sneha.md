@@ -259,71 +259,65 @@ int main() {
 }
 ```
 
+
 ## HEAP SORT
 
-'''
+```
 #include <iostream>
 #include <vector>
+
 using namespace std;
 
-\008
+
 void heapify(int A[],int n, int i)
 {
-  int large = i;
-  int l = 2*i +1;
-  int r = 2*i +2;
-
-  if(l<n && A[l]>A[large])
-  {
-    large = l;
-  }
-
-  if(r<n && A[r]>A[large])
-  {
-    large = r;
-  }
-  if(large!=i)
-  {
-    int temp = A[large];
-  A[large] = A[i];
-  A[i]= temp;
-  heapify(A,n,large);
-  }
+      int large = i;
+      int l = 2*i +1;
+      int r = 2*i +2;
+      if(l<n && A[l]>A[large])
+      {
+        large = l;
+      }
+      if(r<n && A[r]>A[large])
+      {
+        large = r;
+      }
+      if(large!=i)
+      {
+        int temp = A[large];
+        A[large] = A[i];
+        A[i]= temp;
+        heapify(A,n,large);
+      }
 
 } 
 void heapsort(int A[],int n)
 {
-for(int i=n/2-1;i>=0;i--)
-heapify(A,n,i);
+        for(int i=n/2-1;i>=0;i--)
+        heapify(A,n,i);
+        for(int i =n-1;i>=0;i--)
+        {
+          int temp = A[0];
+          A[0] = A[i];
+          A[i]= temp;
+          heapify(A,i,0);
+        }
 
-for(int i =n-1;i>=0;i--)
-{
-  int temp = A[0];
-  A[0] = A[i];
-  A[i]= temp;
-
-  heapify(A,i,0);
-}
-\008
 }
 
 int main() {
-int n;
-int temp = 0;
-cin>>n;
-int *A =NULL;
-A = new int[n];
-for(int i=0;i<n;i++)
-{
-cin>>A[i];
-}
-
-heapsort(A,n);
-cout<<"Heap Sort: ";
-for(int i=0;i<n;i++)
-{
-cout<<A[i]<<" ";
-}
-return 0;
-}
-'''
+    int n;
+    int temp = 0;
+    cin>>n;
+    int *A =NULL;
+    A = new int[n];
+    for(int i=0;i<n;i++)
+    cin>>A[i];
+    heapsort(A,n);
+    cout<<"Heap Sort: ";
+    for(int i=0;i<n;i++)
+    {
+    cout<<A[i]<<" ";
+    }
+    return 0;
+}```
