@@ -43,7 +43,13 @@ This is the template for participants' checklist. You can create a checklist in 
     - [x] Assignment 2 = 65/65
     - [x] Assignment 3 = 100/100
     
-    
+
+## Week 5:
+
+- [x] Time Complexity Analysis (Playlist about how to find time-complexity over the codes)
+- [x] InterviewBit Complexity Assesment (Complete the tutorial, and then go for MCQs
+
+
 ## Week 6:
 *Assignment:
 
