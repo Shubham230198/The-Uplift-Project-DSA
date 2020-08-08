@@ -9,7 +9,7 @@ This is the template for participants' checklist. You can create a checklist in 
 
 ## Week 1:
 
-- [] Basic Java for Beginners
+- [x] Basic Java for Beginners
 - [x] Basics of Data Structures
 - [x] Basic Searching Techniques
 - [x] Maths and Number System
@@ -34,7 +34,7 @@ This is the template for participants' checklist. You can create a checklist in 
  ## Week 3:
 
 - [x] Infix, Prefix and Postfix Notations (and their conversions)
-- [ ] Object Oriented Programming (OOPs) // (unable to load link)
+- [x] Object Oriented Programming (OOPs)
 
   * Assignments:
     - [ ] Assignment 1  
@@ -69,5 +69,11 @@ This is the template for participants' checklist. You can create a checklist in 
 - [x] Summarise and Sorting in java (Blog: 20mins read)
 
   * Assignments:
-    - [x] Assignment = This week's assignment will be to code every Sorting algorithm listed above, and submit in Week5's YOUR_NAME folder over gitHub.
+    - [x] This week's assignment will be to code every Sorting algorithm listed above, and submit in Week5's YOUR_NAME folder over gitHub.
+    
+ ## Week 7
+ - [x] Generic Trees
+ - [x] Binary Trees
+ - [x] Binary Search Trees
+
   
