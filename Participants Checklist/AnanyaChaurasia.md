@@ -1,4 +1,4 @@
-# Ananya Chaurasia - Checklist
+# Ananya Chaurasia  (New Participant)
 This is the template for participants' checklist. You can create a checklist in this format with yourName, and make PR to keep it updated.
 
 ## Week 1:
@@ -9,8 +9,8 @@ This is the template for participants' checklist. You can create a checklist in 
 - [x] Maths and Number System
 
   * Assignments:
-    - [x] Assignment 1
-    - [x] Assignment 2
+    - [x] Assignment 1 = 100/100
+    - [x] Assignment 2 = 54/80
     - [x] Assignment 3
 
  ## Week 2:
