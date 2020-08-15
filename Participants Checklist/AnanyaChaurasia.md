@@ -55,17 +55,17 @@ This is the template for participants' checklist. You can create a checklist in 
 
 - [x] Introduction to Sorting (Video)
 - [X] Selection Sort (Video: Explanation along with pseudo code)
-- [] Bubble Sort (Video: Explanation along with Pseudo code)
-- [] Insertion Sort (Video: Explanation along with Pseudo code)
-- [] Merge Sort (Video: Explanation with Pseudo code)
-- [] Merge Sort complexity analysis (Video)
-- [] Quick Sort (Video: Explanation with Pseudo code)
-- [] Quick Sort complexity analysis (Video)
-- [] Heap Sort (Video: Explanation with approach) This will be difficult topic, We will surely be doing this in session.
-- [] Summarisation and Sorting in java (Blog: 20mins read)
+- [x] Bubble Sort (Video: Explanation along with Pseudo code)
+- [x] Insertion Sort (Video: Explanation along with Pseudo code)
+- [x] Merge Sort (Video: Explanation with Pseudo code)
+- [x] Merge Sort complexity analysis (Video)
+- [x] Quick Sort (Video: Explanation with Pseudo code)
+- [x] Quick Sort complexity analysis (Video)
+- [x] Heap Sort (Video: Explanation with approach) This will be difficult topic, We will surely be doing this in session.
+- [x] Summarisation and Sorting in java (Blog: 20mins read)
 
    * Assignments: 
-     - [] This week's assignment will be to code every Sorting algorithm listed above, and submit in Week5's YOUR_NAME folder over gitHub.
+     - [x] This week's assignment will be to code every Sorting algorithm listed above, and submit in Week5's YOUR_NAME folder over gitHub.
      
 ## Week 7:
 
