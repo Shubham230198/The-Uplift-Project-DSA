@@ -25,3 +25,53 @@ This is the template for participants' checklist. You can create a checklist in 
      - []Assignment 2
      - []Assignment 3
      - []Extra Questions on Recursion If anyone want to do more questions, on his/her own.
+      
+ ## Week 3:
+   
+- [] Infix, Prefix and Postfix Notations (and their conversions)
+- [] Object Oriented Programming (OOPs)
+
+    * Assignments:
+       - [] Assignment 1
+       
+ ##  Week 4:
+ 
+- [] Stack and it's content
+- [] Linked List and it's types
+- [] Queues and content
+- [] Priority Queue (Video)
+
+   * Assignments:
+       - [] Assignmnet 1
+       - [] Assignmnet 2
+       - [] Assignment 3
+       
+## Week 5:
+
+- [] Time Complexity Analysis (Playlist about how to find time-complexity over the codes)
+- [] InterviewBit Complexity Assesment (Complete the tutorial, and then go for MCQs.
+
+## Week 6:
+
+- [x] Introduction to Sorting (Video)
+- [X] Selection Sort (Video: Explanation along with pseudo code)
+- [] Bubble Sort (Video: Explanation along with Pseudo code)
+- [] Insertion Sort (Video: Explanation along with Pseudo code)
+- [] Merge Sort (Video: Explanation with Pseudo code)
+- [] Merge Sort complexity analysis (Video)
+- [] Quick Sort (Video: Explanation with Pseudo code)
+- [] Quick Sort complexity analysis (Video)
+- [] Heap Sort (Video: Explanation with approach) This will be difficult topic, We will surely be doing this in session.
+- [] Summarisation and Sorting in java (Blog: 20mins read)
+
+   * Assignments: 
+     - [] This week's assignment will be to code every Sorting algorithm listed above, and submit in Week5's YOUR_NAME folder over gitHub.
+     
+## Week 7:
+
+- [] Generic Trees
+- [] Binary Trees
+- [] Binary Search Trees
+- [] Special Content wrt project:-
+- [] B Trees Vs B+ Trees (How they are useful in our project) (Video)
+- [] AVL Trees (Introduction) (video)
