@@ -48,8 +48,8 @@ This is the template for participants' checklist. You can create a checklist in 
        
 ## Week 5:
 
-- [] Time Complexity Analysis (Playlist about how to find time-complexity over the codes)
-- [] InterviewBit Complexity Assesment (Complete the tutorial, and then go for MCQs.
+- [x] Time Complexity Analysis (Playlist about how to find time-complexity over the codes)
+- [x] InterviewBit Complexity Assesment (Complete the tutorial, and then go for MCQs.
 
 ## Week 6:
 
