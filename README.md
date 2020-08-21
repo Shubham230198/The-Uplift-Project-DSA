@@ -110,7 +110,7 @@ This week's topic is Tree Data-Structure.
   
   
   
-## Week 8
+## Week 8 (On Going)
 This week's topic is graph and it's Algorithms. Complete it till 29 August.
 
   * [Graphs and Algorithms PlayList](https://www.youtube.com/playlist?list=PL-Jc9J83PIiHfqDcLZMcO9SsUDY4S3a-v)
