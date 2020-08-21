@@ -96,7 +96,7 @@ Follow the links to the resources. If multiple videos/links are given in same po
   
   * Assignments: This week's assignment will be to code every Sorting algorithm listed above, and submit in Week5's YOUR_NAME folder over gitHub.
   
-## Week 7 (On Going)
+## Week 7 (Completed)
 This week's topic is Tree Data-Structure.
 
   * [Generic Trees](https://github.com/Shubham230198/The-Uplift-Project-DSA/blob/master/Week7/Generic%20Trees.md)
@@ -113,10 +113,3 @@ This week's topic is Tree Data-Structure.
 ## Week 8
 
 
-## Week 9
-
-
-## Week 10
-
-
-## Week 11
