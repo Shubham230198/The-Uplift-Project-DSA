@@ -68,7 +68,7 @@ Follow the links to the resources. If multiple videos/links are given in same po
   
   
 
-## Week 6 (On going)  
+## Week 6 (Completed)  
   This week's topics are Searching and Sorting. We will be learning 7 types of sorting and their time-complexity analysis, i.e Bubble sort, Selection sort, Insertion sort, Merge Sort, Quick Sort and Heap Sort. Do join the sessions, as we will be coding all the Sorting algos there along with explanation.
 
 
@@ -96,16 +96,24 @@ Follow the links to the resources. If multiple videos/links are given in same po
   
   * Assignments: This week's assignment will be to code every Sorting algorithm listed above, and submit in Week5's YOUR_NAME folder over gitHub.
   
-## Week 7
+## Week 7 (Completed)
+This week's topic is Tree Data-Structure.
+
+  * [Generic Trees](https://github.com/Shubham230198/The-Uplift-Project-DSA/blob/master/Week7/Generic%20Trees.md)
+  * [Binary Trees](https://github.com/Shubham230198/The-Uplift-Project-DSA/blob/master/Week7/Binary%20Trees.md)
+  * [Binary Search Trees](https://github.com/Shubham230198/The-Uplift-Project-DSA/blob/master/Week7/Binary%20Search%20Trees.md)
+  
+  ##### Special Content wrt project:-
+  - [B Trees Vs B+ Trees (How they are useful in our project)](https://www.youtube.com/watch?v=aZjYr87r1b8) (Video)
+  - [AVL Trees (Introduction)](https://www.youtube.com/watch?v=jDM6_TnYIqE&list=PLDN4rrl48XKpZkf03iYFl-O29szjTrs_O&index=77&t=0s) (video)
+   
+  
+  
+  
+## Week 8 (On Going)
+This week's topic is graph and it's Algorithms. Complete it till 29 August.
+
+  * [Graphs and Algorithms PlayList](https://www.youtube.com/playlist?list=PL-Jc9J83PIiHfqDcLZMcO9SsUDY4S3a-v)
 
 
-## Week 8
 
-
-## Week 9
-
-
-## Week 10
-
-
-## Week 11

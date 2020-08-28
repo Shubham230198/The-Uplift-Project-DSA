@@ -42,3 +42,26 @@ This is the template for participants' checklist. You can create a checklist in 
     - [x] Assignment 1 = 140/140
     - [x] Assignment 2 = 65/65
     - [x] Assignment 3 = 100/100
+    
+
+## Week 5:
+
+- [x] Time Complexity Analysis (Playlist about how to find time-complexity over the codes)
+- [x] InterviewBit Complexity Assesment (Complete the tutorial, and then go for MCQs
+
+
+## Week 6:
+
+- [x] Introduction to Sorting (Video)
+- [x] Selection Sort (Video: Explanation along with pseudo code)
+- [x] Bubble Sort (Video: Explanation along with Pseudo code)
+- [x] Insertion Sort (Video: Explanation along with Pseudo code)
+- [x] Merge Sort (Video: Explanation with Pseudo code)
+- [x] Merge Sort complexity analysis (Video)
+- [x] Quick Sort (Video: Explanation with Pseudo code)
+- [x] Quick Sort complexity analysis (Video)
+- [x] Summarisation and Sorting in java (Blog: 20mins read)
+
+  * Assignments:
+    - [x] Assignment = This week's assignment will be to code every Sorting algorithm listed above, and submit in Week5's YOUR_NAME folder over gitHub.
+  
