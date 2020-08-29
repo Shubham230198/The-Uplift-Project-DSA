@@ -42,9 +42,9 @@ This is the template for participants' checklist. You can create a checklist in 
 - [x] Priority Queue (Video)
 
    * Assignments:
-       - [] Assignmnet 1
-       - [] Assignmnet 2
-       - [] Assignment 3
+       - [x] Assignmnet 1
+       - [x] Assignmnet 2
+       - [x] Assignment 3
        
 ## Week 5:
 
