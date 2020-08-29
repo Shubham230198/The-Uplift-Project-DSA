@@ -21,10 +21,10 @@ This is the template for participants' checklist. You can create a checklist in 
 - [x] Concept of Backtracking (along with Basic Problems)
 
    * Assignments:
-     - [x]Assignment 1
-     - [x]Assignment 2
-     - [x]Assignment 3
-     - [x]Extra Questions on Recursion If anyone want to do more questions, on his/her own.
+     - [x] Assignment 1
+     - [x] Assignment 2
+     - [x] Assignment 3
+     - [x] Extra Questions on Recursion If anyone want to do more questions, on his/her own.
       
  ## Week 3:
    
