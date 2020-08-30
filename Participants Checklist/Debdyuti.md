@@ -59,3 +59,6 @@ This is the template for participants' checklist. You can create a checklist in 
  *Assignment:
  
  - [x] Assignment
+ 
+ ## Project
+  - [x] Project
