@@ -85,4 +85,4 @@ This is the template for participants' checklist. You can create a checklist in 
 
 ## Project:
 
--[x] Project Completed
+- [x] Project Completed
