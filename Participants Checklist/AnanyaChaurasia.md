@@ -21,30 +21,30 @@ This is the template for participants' checklist. You can create a checklist in 
 - [x] Concept of Backtracking (along with Basic Problems)
 
    * Assignments:
-     - []Assignment 1
-     - []Assignment 2
-     - []Assignment 3
-     - []Extra Questions on Recursion If anyone want to do more questions, on his/her own.
+     - [x] Assignment 1
+     - [x] Assignment 2
+     - [x] Assignment 3
+     - [x] Extra Questions on Recursion If anyone want to do more questions, on his/her own.
       
  ## Week 3:
    
-- [] Infix, Prefix and Postfix Notations (and their conversions)
-- [] Object Oriented Programming (OOPs)
+- [x] Infix, Prefix and Postfix Notations (and their conversions)
+- [x] Object Oriented Programming (OOPs)
 
     * Assignments:
-       - [] Assignment 1
+       - [x] Assignment 1
        
  ##  Week 4:
  
-- [] Stack and it's content
-- [] Linked List and it's types
-- [] Queues and content
-- [] Priority Queue (Video)
+- [x] Stack and it's content
+- [x] Linked List and it's types
+- [x] Queues and content
+- [x] Priority Queue (Video)
 
    * Assignments:
-       - [] Assignmnet 1
-       - [] Assignmnet 2
-       - [] Assignment 3
+       - [x] Assignmnet 1
+       - [x] Assignmnet 2
+       - [x] Assignment 3
        
 ## Week 5:
 
@@ -69,9 +69,13 @@ This is the template for participants' checklist. You can create a checklist in 
      
 ## Week 7:
 
-- [] Generic Trees
-- [] Binary Trees
-- [] Binary Search Trees
-- [] Special Content wrt project:-
-- [] B Trees Vs B+ Trees (How they are useful in our project) (Video)
-- [] AVL Trees (Introduction) (video)
+- [x] Generic Trees
+- [x] Binary Trees
+- [x] Binary Search Trees
+- [x] Special Content wrt project:-
+- [x] B Trees Vs B+ Trees (How they are useful in our project) (Video)
+- [x] AVL Trees (Introduction) (video)
+
+## Week 8:
+
+- [x] Graphs and Algorithms PlayList
