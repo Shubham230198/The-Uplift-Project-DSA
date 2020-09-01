@@ -81,3 +81,8 @@ This is the template for participants' checklist. You can create a checklist in 
 ## Week 8:
 
 - [x] Graphs and Algorithms PlayList
+
+
+## Project:
+
+- [x] Project Completed
