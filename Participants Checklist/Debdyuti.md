@@ -65,3 +65,16 @@ This is the template for participants' checklist. You can create a checklist in 
   * Assignments:
     - [x] Assignment = This week's assignment will be to code every Sorting algorithm listed above, and submit in Week5's YOUR_NAME folder over gitHub.
   
+## Week 7
+ *Assignment:
+ 
+ - [x] Assignment
+ 
+ 
+## Week 8
+ *Assignment:
+ 
+ - [x] Assignment
+ 
+ ## Project
+  - [x] Project

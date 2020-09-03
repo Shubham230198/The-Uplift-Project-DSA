@@ -65,3 +65,24 @@ This is the template for participants' checklist. You can create a checklist in 
 
   * Assignments:
     - [x] Assignment = This week's assignment will be to code every Sorting algorithm listed above, and submit in Week5's YOUR_NAME folder over gitHub.
+
+
+## Week 7:
+
+- [x] Generic Trees
+- [x] Binary Trees
+- [x] Binary Search Trees
+
+  *Special Content wrt project:-
+- [x] B Trees Vs B+ Trees (How they are useful in our project) (Video)
+- [x] AVL Trees (Introduction) (video)
+
+
+## Week 8:
+
+- [x] Graphs and Algorithms PlayList
+
+
+## Project:
+
+- [x] Project Completed
