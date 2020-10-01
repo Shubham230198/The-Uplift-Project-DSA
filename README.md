@@ -1,4 +1,4 @@
-# The-Uplift-Project (DSA Learning Path)
+# The-Uplift-Amazing-Project (DSA Learning and Developing Concept Path)
 Follow the links to the resources. If multiple videos/links are given in same point choose the ones that suits you.
 
 
